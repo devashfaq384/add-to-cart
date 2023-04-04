@@ -42,6 +42,7 @@ const Products = () => {
                                 <img
                                     src={item.image}
                                     style={{ height: '100px' }}
+                                    alt="img"
                                 />
                                 <a href="#!">
                                     <div className="mask">
